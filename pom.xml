@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gkatzioura.maven.cloud</groupId>
+    <groupId>io.github.keijoraamat</groupId>
     <artifactId>cloud-storage-maven</artifactId>
     <packaging>pom</packaging>
     <version>2.3</version>
@@ -26,12 +26,18 @@
             <organization>egkatzioura</organization>
             <organizationUrl>https://egkatzioura.com/</organizationUrl>
         </developer>
+        <developer>
+            <name>Keijo Raamat</name>
+            <email>genericemail@nowhere</email>
+            <organization>none</organization>
+            <organizationUrl>https://none/</organizationUrl>
+        </developer>
     </developers>
 
     <scm>
-        <url>https://github.com/gkatzioura/CloudStorage</url>
-        <connection>scm:git:https://github.com/gkatzioura/CloudStorage.git</connection>
-        <developerConnection>scm:git:https://github.com/gkatzioura/CloudStorage.git</developerConnection>
+        <url>https://github.com/keijoraamat/CloudStorage</url>
+        <connection>scm:git:https://github.com/keijoraamat/CloudStorage.git</connection>
+        <developerConnection>scm:git:https://github.com/keijoraamat/CloudStorage.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
